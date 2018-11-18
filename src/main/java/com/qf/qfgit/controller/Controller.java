@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class Controller {
     @RequestMapping(value = "hello")
     public String hello(){
-        System.out.println("yoga71");
+        System.out.println("yoga711");
         return "hello";
     }
 }
